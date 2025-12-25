@@ -15,7 +15,6 @@ This is my first Git Repository
     <h4>Main Bookmarks -CodeWithMOhit- using h4 </h4>
     <h5>Main Bookmarks -CodeWithMOhit - using h5</h5>
     <h6>Main Bookmarks -CodeWithMOhit - using h6 </h6>
-
     <!-- LN LINE CSS // style is attribute which is enhanced the func of element -->
     <p style="background-color: thistle;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim distinctio ullam delectus non quis deleniti, asperiores voluptatum, incidunt nisi quibusdam consequuntur voluptas explicabo?</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, excepturi!</p>
